@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - JAVA SCRICPT
 # ES6
 # Framework Javascript
-- Struktur data dasar
+(Angular)
+react
 - PHP fRAMEWORK
+(Laravel)
 - INTERVIEW
